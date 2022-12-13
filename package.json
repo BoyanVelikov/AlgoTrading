@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@alpacahq/alpaca-trade-api": "^2.16.1"
+    "@alpacahq/alpaca-trade-api": "^2.16.1",
+    "lodash": "^4.17.21",
+    "technicalindicators": "^3.1.0"
   }
 }
